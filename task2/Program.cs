@@ -4,7 +4,7 @@
 // 32679 -> 6
 
 
-int number = 645;//new Random().Next(100, 23000);
+int number = new Random().Next(100, 23000);
 Console.WriteLine($"Случайное трехзначное число -> {number}");
 
 
