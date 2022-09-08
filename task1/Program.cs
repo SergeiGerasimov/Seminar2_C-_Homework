@@ -14,6 +14,7 @@ int SecondDigit(int num)
     return firstDigit;
 }
 
+
 int result = SecondDigit(number);
 Console.WriteLine($"Второе число - {result}");
 
